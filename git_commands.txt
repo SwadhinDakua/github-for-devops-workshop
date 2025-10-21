@@ -1,0 +1,15 @@
+Git commands
+1. git config --global user.name "username"
+2. git config --global user.email "username@gmail.com"
+3. git init
+4. git status
+5. git add filename
+6. git add . --->unstracked ->staged
+7. git git rm --cached filename ---> staged -> untracked
+8. git commit -m "message" --->staged -> tracked
+9. git restore filename
+10. git remote add origin github repository location
+11. git remote set-url origin https://copied token@github.com/github repository location
+12. git push origin main
+13. git clone github repository location
+
