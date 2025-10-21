@@ -12,6 +12,6 @@ Git commands
 11. git remote set-url origin https://copied token@github.com/github repository location
 12. git push origin main
 13. git clone github repository location
-
+14. git pull origin main
 
 this is some new changes.
