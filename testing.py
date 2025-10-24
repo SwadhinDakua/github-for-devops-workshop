@@ -1,1 +1,8 @@
-print("hello doston")
+def hello():
+    """
+    this is demo
+    """
+    return "Hello Dosto"
+
+
+hello()
